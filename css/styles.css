@@ -1,8 +1,6 @@
 #title{
-    background-color: #ff4c68;
-    
-    
-}
+    background-color: #ff4c68;}
+
 h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
@@ -49,7 +47,7 @@ h1{
     margin-bottom: 20px;
 }
 .button2{
-    margin left :0;
+    margin-left :0;
     margin-bottom: 20px;
 }
 .feature-sec{
@@ -67,7 +65,6 @@ h3{
     font-family: 'Montserrat', sans-serif;
     padding-top: 8%;
     font-weight: 600;
-    
 }
 p{
     color: #8f8f8f;
@@ -153,17 +150,15 @@ h3.pricing-h3{
     color: #8f8f8f;
     padding: 1% 0 4% 0;
     margin-bottom: 0px;
-
-
 }
 .footer-class{
     padding: 1% 1%;
 }
+
 @media (max-width: 576px){
 .dog{
     transform:rotate(0) ;
     position: static;
-
 }
 #title{
     text-align: center;
@@ -175,19 +170,13 @@ h2{
     font-size: 2rem;
 }
 .nav-item{
-    text-align: left;
+    text-align: left;}
 }
-
-}
-
 .pricing-row{
     margin-left: 120px;
     margin-right: 120px;
-
 }
 @media (max-width:883px){
 h1{
-    font-size: 2.5rem;
-}
-
+    font-size: 2.5rem;}
 }
